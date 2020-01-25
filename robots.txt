@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahroofohth.mictech.cz/sitemap.xml
